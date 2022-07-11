@@ -3,25 +3,25 @@
     padding: 0;
     margin: 0;
 }
-
+/*The background color of the entire body is white */
 body {
     background-color: #d9dcd6;
 }
-
+/* The header has a navy background and uses the font family listed */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: navy;
     color: navy
 }
-
+/* The h1 header in the body has a font size of 48px and the links are listed inline and block */
 .header h1 {a
     display: inline-block;
     font-size: 48px;
 }
-
+/* The font color of Horiseon in h1 is black */
 .seo {
-    color: black;
+    color: #d9dcd6;
 }
 
 .header div {
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* The content will be displayed at a with of 75% and have a Margin of 20px */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* The class appears to the right of page/ has a background color of blue and uses the font family listed */
 .benefits {
     margin-right: 20px;
     padding: 20px;
