@@ -12,16 +12,16 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: navy;
-    color: #ffffff;
+    color: navy
 }
 
-.header h1 {
+.header h1 {a
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+.seo {
+    color: black;
 }
 
 .header div {
