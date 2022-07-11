@@ -12,4 +12,6 @@ It was challenging as a new developer applying the necessary tags, class, and at
 ---
 #Set up
 Run the code in the bowser by following the url link below <br> 
-[link] (http://127.0.0.1:5501/index.html)
+[link] (http://127.0.0.1:5501/index.html) <br>
+The user should be able to view the image below <br> 
+![Horiseon collobarative team at desk]("assets/Screen Shot 2022-07-11 at 10.52.36 AM.png")
