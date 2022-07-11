@@ -12,6 +12,6 @@ Alt attributes were applied throughout the entire webpage to the side column for
 It was challenging as a new developer applying the necessary tags, class, and attributes to achieve the request of the ticket, however with testing and frequently inspecting the browser the modifications were made. I added section tags to the html to separate each feature of the Horiseon has to offer. This made the paragraphs asthetically appealing to the reader.
 # Set up
 Run the code in the bowser by following the url link below
-[ website link](http://127.0.0.1:5501/index.html) 
+[ website link](https://rgonsahn.github.io/Robina-1-Week-1-Challenge/)
 The user should be able to view the image below 
 ![Horiseon collobarative team at desk](assets/images/screenshot1.png)
